@@ -1,3 +1,3 @@
 # formulariophp
 Modelo de formulario PHP
-* Valores de un formulario *
+* Valores de un formulario*
